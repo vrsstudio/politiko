@@ -2,7 +2,7 @@
  {
   
      "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/groshi24ua.png",
-      "name": "Evros",
+      "name": "groshi247-ua",
      "rating": 5,
      "age": "18-70",
     "percent": "0,1%",
@@ -32,7 +32,7 @@
  {
   
      "image_url": "https://raw.githubusercontent.com/vrsstudio/img/66c872f8dd5a0e3f8452296287637d6d573aa2f4/ecredosua.png",
-      "name": "Milian",
+      "name": "credos-ua",
      "rating": 5,
      "age": "18-65",
     "percent": "1%",
@@ -45,7 +45,7 @@
      "url": "https://appstopcredits.online/credos-ua/",
        "email": "info@web-zaim.ru",
         "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
-        "work_time": "Працює цілодобово",
+        "work_time": "Пн - Пт (9:00 до 18:00), Сб-Нд - вихідні, без перерви",
         "license": "Свідоцтво № 2/11/08/27/000457",
    "scorost": "несколько минут",
    "dokuments": "Паспорт",
@@ -60,22 +60,22 @@
 ,
  {
   
-     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/66c872f8dd5a0e3f8452296287637d6d573aa2f4/miloan.png",
-      "name": "Soscredit",
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/66c872f8dd5a0e3f8452296287637d6d573aa2f4/trebaua.png",
+      "name": "Treba UA",
      "rating": 5,
      "age": "18-65",
-    "percent": "1%",
-	"sum_one": "до 55 000",
+    "percent": "0,4%",
+	"sum_one": "до 25 000 грн",
 		"sum_min": "до 1 000 руб",
- "days_info": "до 190 дней",
+ "days_info": "до 130 днів",
  
 	"term_to": "160",
    
-     "url": "https://appstopcredits.online/miloan/",
+     "url": "https://appstopcredits.online/treba-ua/",
        "email": "info@web-zaim.ru",
         "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
         "work_time": "Працює цілодобово",
-        "license": "Свидетельство №2/11/08/27/000326",
+        "license": "Свідоцтво № 1/10/03/27/000132",
    "scorost": "несколько минут",
    "dokuments": "Паспорт",
    "sposob": "онлайн",
@@ -87,4 +87,5 @@
 
   }
 ]
+
 
