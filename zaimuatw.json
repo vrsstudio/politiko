@@ -1,25 +1,22 @@
 [
-    
-    
- 
  {
   
-     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/66c872f8dd5a0e3f8452296287637d6d573aa2f4/starfin.png",
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/groshi24ua.png",
       "name": "Evros",
      "rating": 5,
-     "age": "18-65",
-    "percent": "1%",
-	"sum_one": "до 50 000",
+     "age": "18-70",
+    "percent": "0,1%",
+	"sum_one": "до 25 000 грн",
 		"sum_min": "до 1 000 руб",
- "days_info": "до 190 дней",
+ "days_info": "до 95 днів",
  
 	"term_to": "160",
    
-     "url": "https://appstopcredits.online/starfin/",
+     "url": "https://appstopcredits.online/groshi247-ua/",
        "email": "info@web-zaim.ru",
         "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
-        "work_time": "Работает круглосуточно",
-        "license": "Свидетельство №2/11/08/27/000326",
+        "work_time": "Працює цілодобово",
+        "license": "Свідоцтво № 2/10/09/23/000445",
    "scorost": "несколько минут",
    "dokuments": "Паспорт",
    "sposob": "онлайн",
@@ -29,34 +26,27 @@
 	"kruglosutochno": true
 
 
-  }
-    
-    
+  }  
 ,
-
-
-
-
-
 
  {
   
-     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/66c872f8dd5a0e3f8452296287637d6d573aa2f4/prostocredit.png",
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/66c872f8dd5a0e3f8452296287637d6d573aa2f4/ecredosua.png",
       "name": "Milian",
      "rating": 5,
      "age": "18-65",
     "percent": "1%",
-	"sum_one": "до 45 000",
+	"sum_one": "до 55 000 грн",
 		"sum_min": "до 1 000 руб",
- "days_info": "до 160 дней",
+ "days_info": "до 120 днів",
  
 	"term_to": "160",
    
-     "url": "https://appstopcredits.online/prosto-credit/",
+     "url": "https://appstopcredits.online/credos-ua/",
        "email": "info@web-zaim.ru",
         "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
-        "work_time": "Работает круглосуточно",
-        "license": "Свидетельство №2/11/08/27/000326",
+        "work_time": "Працює цілодобово",
+        "license": "Свідоцтво № 2/11/08/27/000457",
    "scorost": "несколько минут",
    "dokuments": "Паспорт",
    "sposob": "онлайн",
@@ -66,14 +56,8 @@
 	"kruglosutochno": true
 
 
-  }
-    
-    
+  }   
 ,
-
-
-
-
  {
   
      "image_url": "https://raw.githubusercontent.com/vrsstudio/img/66c872f8dd5a0e3f8452296287637d6d573aa2f4/miloan.png",
@@ -90,7 +74,7 @@
      "url": "https://appstopcredits.online/miloan/",
        "email": "info@web-zaim.ru",
         "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
-        "work_time": "Работает круглосуточно",
+        "work_time": "Працює цілодобово",
         "license": "Свидетельство №2/11/08/27/000326",
    "scorost": "несколько минут",
    "dokuments": "Паспорт",
@@ -102,18 +86,5 @@
 
 
   }
-    
-    
-
-
-
-
-
-
-
- 
-   
-   
-  
-  
 ]
+
