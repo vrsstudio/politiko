@@ -1,94 +1,94 @@
 [
- {
-  
-     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/groshi24ua.png",
-      "name": "groshi247-ua",
-     "rating": 5,
-     "age": "18-70",
-    "percent": "0,1%",
-	"sum_one": "до 25 000",
-		"sum_min": "до 1 000 руб",
- "days_info": "до 95 днів",
- 
-	"term_to": "160",
-   
-     "url": "https://appstopcredits.online/groshi247-ua/",
-       "email": "info@web-zaim.ru",
-        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
-        "work_time": "Працює цілодобово",
-        "license": "Свідоцтво № 2/10/09/28/000445",
-   "scorost": "несколько минут",
-   "dokuments": "Паспорт",
-   "sposob": "онлайн",
-    "nalichnie": true,
-	"nakartu": true,
-	"zafiveminut": true,
-	"kruglosutochno": true
-
-
-  }  
-,
-
- {
-  
-     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/ecredosua.png",
-      "name": "credos-ua",
-     "rating": 5,
-     "age": "18-65",
-    "percent": "1%",
-	"sum_one": "до 55 000",
-		"sum_min": "до 1 000 руб",
- "days_info": "до 120 днів",
- 
-	"term_to": "160",
-   
-     "url": "https://appstopcredits.online/credos-ua/",
-       "email": "info@web-zaim.ru",
-        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
-        "work_time": "Пн - Пт (9:00 до 18:00), Сб-Нд - вихідні, без перерви",
-        "license": "Свідоцтво № 2/11/08/27/000457",
-   "scorost": "несколько минут",
-   "dokuments": "Паспорт",
-   "sposob": "онлайн",
-    "nalichnie": true,
-	"nakartu": true,
-	"zafiveminut": true,
-	"kruglosutochno": true
-
-
-  }   
-,
- {
-  
-     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/trebaua.png",
-      "name": "Treba UA",
-     "rating": 5,
-     "age": "18-65",
-    "percent": "0,4%",
-	"sum_one": "до 25 000",
-		"sum_min": "до 1 000 руб",
- "days_info": "до 130 днів",
- 
-	"term_to": "160",
-   
-     "url": "https://appstopcredits.online/treba-ua/",
-       "email": "info@web-zaim.ru",
-        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
-        "work_time": "Працює цілодобово",
-        "license": "Свідоцтво № 1/10/06/27/000132",
-   "scorost": "несколько минут",
-   "dokuments": "Паспорт",
-   "sposob": "онлайн",
-    "nalichnie": true,
-	"nakartu": true,
-	"zafiveminut": true,
-	"kruglosutochno": true
-
-
+  {
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/amio.jpg",
+    "name": "Amigo",
+    "rating": 5,
+    "age": "18-70",
+    "percent": "до 1%",
+    "sum_one": "до 25 000 ₴",
+    "sum_min": "від 500 ₴",
+    "days_info": "90–360 днів",
+    "term_to": "360",
+    "url": "https://ten.finme.com/click?pid=47&offer_id=167&sub3=kr",
+    "email": "info@amigo.com.ua",
+    "address": "04107, м. Київ, вул. Багговутівська, 17-21",
+    "work_time": "24/7 онлайн, служба підтримки 09:00-20:00",
+    "license": "ІК № 176 (НФКЦ) від 14.07.2016",
+    "scorost": "до 15 хвилин",
+    "dokuments": "паспорт + ІПН",
+    "sposob": "онлайн, через сайт або мобільний додаток",
+    "nalichnie": false,
+    "nakartu": true,
+    "zafiveminut": true,
+    "kruglosutochno": true
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/plus.png",
+    "name": "Loan+",
+    "rating": 5,
+    "age": "18-65",
+    "percent": "от 0,1%",
+    "sum_one": "до 20 000 ₴",
+    "sum_min": "от 500 ₴",
+    "days_info": "90–360 днів",
+    "term_to": "80",
+    "url": "https://loanplus.com.ua/?utm_source=alexapp&utm_medium=affiliate&utm_campaign=app",
+    "email": "support@loanplus.com.ua",
+    "address": "04080, м. Київ, вул. Константинівська, 75, офіс 601А",
+    "work_time": "24/7 онлайн",
+    "license": "Ліцензія НБУ (ООО «Фінансова компанія Абекор»), переоформлена 12.07.2024",
+    "scorost": "5-15 хвилин",
+    "dokuments": "паспорт + ІПН + карта + телефон",
+    "sposob": "онлайн",
+    "nalichnie": false,
+    "nakartu": true,
+    "zafiveminut": true,
+    "kruglosutochno": true
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/miloo.png",
+    "name": "Miloan",
+    "rating": 5,
+    "age": "18–70",
+    "percent": "до 35% річних (макс.)",
+    "sum_one": "до 25 000 ₴",
+    "sum_min": "від 500 ₴",
+    "days_info": "від 90 до 360 днів",
+    "term_to": "360",
+    "url": "https://ten.finme.com/click?pid=47&offer_id=165&sub3=kre",
+    "email": "info@miloan.ua",
+    "address": null,
+    "work_time": "24/7 онлайн, підтримка 09:00–20:00",
+    "license": "ІК № 176 від 14.07.2016",
+    "scorost": "до 15 хвилин (повторний — до 5 хвилин)",
+    "dokuments": "паспорт + ІПН",
+    "sposob": "онлайн (на карту)",
+    "nalichnie": false,
+    "nakartu": true,
+    "zafiveminut": true,
+    "kruglosutochno": true
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/tng.png",
+    "name": "Tengo",
+    "rating": 5,
+    "age": "18–70",
+    "percent": "0,01%",
+    "sum_one": "до 15 000 ₴",
+    "sum_min": "от 500 ₴",
+    "days_info": "90–360 днів",
+    "term_to": "360",
+    "url": "https://ten.finme.com/click?pid=47&offer_id=166&sub3=kre",
+    "email": "info@tengo.ua",
+    "address": "04107, м. Київ, вул. Багговутівська, 17-21",
+    "work_time": "24/7 онлайн, підтримка 09:00–20:00",
+    "license": "ІК № 176 (свідоцтво), видано 14.07.2016",
+    "scorost": "до 15 хвилин (повторно — ~5 хвилин)",
+    "dokuments": "паспорт + ІПН",
+    "sposob": "онлайн (BankID, карта)",
+    "nalichnie": false,
+    "nakartu": true,
+    "zafiveminut": true,
+    "kruglosutochno": true
   }
 ]
-
-
-
-
-
