@@ -9,7 +9,7 @@
     "sum_min": "від 500 ₴",
     "days_info": "90–360 днів",
     "term_to": "360",
-    "url": "https://ten.finme.com/click?pid=47&offer_id=167&sub3=kr",
+    "url": "https://ten.finme.com/click?pid=47&offer_id=167&sub3=offcer",
     "email": "info@amigo.com.ua",
     "address": "04107, м. Київ, вул. Багговутівська, 17-21",
     "work_time": "24/7 онлайн, служба підтримки 09:00-20:00",
@@ -55,7 +55,7 @@
     "sum_min": "від 500 ₴",
     "days_info": "від 90 до 360 днів",
     "term_to": "360",
-    "url": "https://ten.finme.com/click?pid=47&offer_id=165&sub3=kre",
+    "url": "https://ten.finme.com/click?pid=47&offer_id=165&sub3=offce",
     "email": "info@miloan.ua",
     "address": null,
     "work_time": "24/7 онлайн, підтримка 09:00–20:00",
@@ -67,28 +67,34 @@
     "nakartu": true,
     "zafiveminut": true,
     "kruglosutochno": true
-  },
+  }
+
+,
   {
-    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/tng.png",
-    "name": "Tengo",
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/cret7.png",
+    "name": "Credit7",
     "rating": 5,
     "age": "18–70",
-    "percent": "0,01%",
-    "sum_one": "до 15 000 ₴",
-    "sum_min": "от 500 ₴",
-    "days_info": "90–360 днів",
+    "percent": "до 35% річних (макс.)",
+    "sum_one": "до 20 000 ₴",
+    "sum_min": "від 500 ₴",
+    "days_info": "від 90 до 360 днів",
     "term_to": "360",
-    "url": "https://ten.finme.com/click?pid=47&offer_id=166&sub3=kre",
-    "email": "info@tengo.ua",
-    "address": "04107, м. Київ, вул. Багговутівська, 17-21",
+    "url": "https://tds.pdl-profit.com/h/ld3641d7bf950a93?subid=offce",
+    "email": "info@miloan.ua",
+    "address": null,
     "work_time": "24/7 онлайн, підтримка 09:00–20:00",
-    "license": "ІК № 176 (свідоцтво), видано 14.07.2016",
-    "scorost": "до 15 хвилин (повторно — ~5 хвилин)",
+    "license": "ІК № 176 від 14.07.2016",
+    "scorost": "до 15 хвилин (повторний — до 5 хвилин)",
     "dokuments": "паспорт + ІПН",
-    "sposob": "онлайн (BankID, карта)",
+    "sposob": "онлайн (на карту)",
     "nalichnie": false,
     "nakartu": true,
     "zafiveminut": true,
     "kruglosutochno": true
   }
+
+
+
+
 ]
