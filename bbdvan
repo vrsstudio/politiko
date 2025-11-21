@@ -1,10 +1,20 @@
 
 [
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/AlfBank.png",
+    "company_name": "Альфа-Банк",
+    "company_full": "Альфа-Банк",
+    "loan_amount": "15 000 000 ₽",
+    "percent": "от 0,01% в день",
+    "time": "до 15 минут",
+    "badge": "Проверено временем",
+    "url": "https://alfabank.ru/get-money/credit/credit-cash/short/#form"
+  },
   {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/tinkoffruw.png",
     "company_name": "Т-Банк",
     "company_full": "Т-Банк",
-    "loan_amount": "300 000 ₽",
+    "loan_amount": "7 000 000 ₽",
     "percent": "от 0,01% в день",
     "time": "до 15 минут",
     "badge": "Репутация",
