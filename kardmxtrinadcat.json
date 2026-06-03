@@ -11,12 +11,22 @@
   },
   {
     "name": "HSBC México",
-    "price_info": "Desde 5% hasta 300 000 MXN",
+    "price_info": "Desde 0% hasta 300 000 MXN",
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/logo_hsbc.png",
     "sum": "400 - 19 000",
     "term": "2 años",
     "percent": "1% - 1,10%",
     "url": "https://www.hsbc.com.mx/creditos/personales/nomina/",
+    "text": "<p>Nuevo cashback aumentado del 5% en electrodomésticos, electrónica, ropa y calzado.</p><p>Límite de crédito de hasta 300 000 MXN.</p>"
+  },
+  {
+    "name": "Banamex México",
+    "price_info": "Desde 0% hasta 300 000 MXN",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/Banamex.png",
+    "sum": "400 - 19 000",
+    "term": "2 años",
+    "percent": "1% - 1,10%",
+    "url": "https://www.banamex.com/es/personas/creditos/credito-personal.html?lid=MX|index-H1-Information-IrCreditoPersonal-ES",
     "text": "<p>Nuevo cashback aumentado del 5% en electrodomésticos, electrónica, ropa y calzado.</p><p>Límite de crédito de hasta 300 000 MXN.</p>"
   }
 ]
