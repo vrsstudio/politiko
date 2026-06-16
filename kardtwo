@@ -1,16 +1,18 @@
-[{
-    "logo": "https://static3.banki.ru/ugc/bf/34/70/e6/195706.gif",
-    "company_name": "Кредит до 1 000 000 ",
-    "loan_amount":"от 21 000 до 70 000 ₽",
-   "url": "https://www.cbr.ru/finorg/"
+[
+
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/gold_card_transparent.png",
+    "company_name": "Кредит до 5 000 000 ",
+    "loan_amount":"от 1 000 до 70 000 ₽",
+   "url": "https://www.vtb.ru/personal/karty/kreditnye/vozmozhnosti/"
   }
 ,
 
 {
-    "logo": "https://api.bankiros.ru/bank_logo/logos/homecreditbank.png",
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/karta_worldpl.png",
     "company_name": "Кредит на любые нужды",
-    "loan_amount":"от 31 000 до 70 000 ₽",
-   "url": "https://www.cbr.ru/finorg/"
+    "loan_amount":"от 1 500 до 6 000 000 ₽",
+   "url": "https://www.tbank.ru/cards/credit-cards/tinkoff-platinum/?internal_source=filter_main"
   }
   
 ]
